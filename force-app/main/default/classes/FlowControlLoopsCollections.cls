@@ -21,7 +21,7 @@ public with sharing class FlowControlLoopsCollections {
     
     /**
      * Question 1
-     * Compares two numbers and return "Hello World!" x is greater than the y.
+     * Compares two numbers and return "Hello World!" if x is greater than the y.
      * If either of the numbers is null or x is less than y, return null.
      * Example: helloWorld(40, 10) should return "Hello World!"
      * @param x The first number.
